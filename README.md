@@ -1,12 +1,16 @@
 ### Hello, I am Pavel 👋
 
+### Software engineering student at the University of Ottawa, with a passion for all things tech
+
+🔭 I’m currently working on: my second year of studies at the University of Ottawa                       
+🌱 I’m currently learning: technologies such as Swift and React to help bring my application ideas to fruition
 <!--
 **pxvelk/pxvelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on: my second year of studies at the University of Ottawa
-🌱 I’m currently learning: technologies such as Swift and React to help bring my application ideas to fruition
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
