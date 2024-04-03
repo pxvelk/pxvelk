@@ -4,6 +4,7 @@
 
 🔭 I’m currently working on: my second year of studies at the University of Ottawa                       
 🌱 I’m currently learning: technologies such as Swift and React to help bring my application ideas to fruition
+📫 How to reach me: pkarm042@uottawa.ca
 <!--
 **pxvelk/pxvelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
