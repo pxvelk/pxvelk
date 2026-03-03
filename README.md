@@ -1,8 +1,6 @@
 ### Hello, I am Pavel 👋
 
-### Software engineering student at the University of Ottawa, with a passion for all things tech
-
-🔭 I’m currently working on: my second year of studies at the University of Ottawa     
+### Software engineering student at the University of Ottawa, with a passion for all things tech  
 
 🌱 I’m currently learning: technologies such as Swift and React to help bring my application ideas to fruition
 
